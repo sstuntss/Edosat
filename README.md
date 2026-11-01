@@ -18,3 +18,6 @@ No open, LGA-indexed satellite dataset exists for Nigeria. Researchers and NGOs 
 
 ## Built by
 Kamoru Destiny, Benin City.
+## AI Model Preview
+![K-Means Clustering](kmeans_ai_preview.png)
+*Unsupervised K-Means clustering applied to the Oredo LGA satellite imagery.*
