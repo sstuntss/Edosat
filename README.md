@@ -40,3 +40,6 @@ Edosat is designed to solve critical environmental and economic challenges in Ni
 ![Alert Map](mining_alert_system_2.png)
 ![Alert Coordinates](mining_alert_system_1.png)
 *The script automatically detects the largest clusters of dead vegetation/urban expansion and outputs exact GPS coordinates and Google Maps links for environmental monitoring.*
+## Carbon Credit Estimation
+![Carbon Credits](carbon_credit_calculation.png)
+*Our AI calculated 3,734 sq km of forest cover in Edo State, representing an estimated $466M - $1.4B USD in annual carbon credit value.*
