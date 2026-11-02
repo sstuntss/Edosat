@@ -36,3 +36,7 @@ Edosat is designed to solve critical environmental and economic challenges in Ni
 ## Time-Series Change Detection (2015 vs 2024)
 ![Change Detection](change_detection_2015_2024.png)
 *Side-by-side comparison of Oredo LGA. The shift in color intensity highlights urban expansion and land-use changes over 9 years.*
+## Automated Alert System (GPS Coordinates)
+![Alert Map](mining_alert_system_2.png)
+![Alert Coordinates](mining_alert_system_1.png)
+*The script automatically detects the largest clusters of dead vegetation/urban expansion and outputs exact GPS coordinates and Google Maps links for environmental monitoring.*
