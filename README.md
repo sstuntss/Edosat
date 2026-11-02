@@ -21,3 +21,7 @@ Kamoru Destiny, Benin City.
 ## AI Model Preview
 ![K-Means Clustering](kmeans_ai_preview.png)
 *Unsupervised K-Means clustering applied to the Oredo LGA satellite imagery.*
+## State-wide AI Maps (v0.2 Preview)
+The Random Forest classifier has been run across all 18 LGAs in Edo State. 
+
+*Preview:* 4 AI-classified maps (including Oredo and Esan Central) are uploaded in this repository. The complete dataset of all 18 AI maps can be generated using the provided Python scripts.
