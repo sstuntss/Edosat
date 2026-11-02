@@ -25,3 +25,11 @@ Kamoru Destiny, Benin City.
 The Random Forest classifier has been run across all 18 LGAs in Edo State. 
 
 *Preview:* 4 AI-classified maps (including Oredo and Esan Central) are uploaded in this repository. The complete dataset of all 18 AI maps can be generated using the provided Python scripts.
+## 🚀 Real-World Use Cases
+
+Edosat is designed to solve critical environmental and economic challenges in Nigeria. 
+
+1. **Time-Series Change Detection:** By comparing historical data (e.g., 2015) with current data (2024), our AI can calculate exact forest loss percentages and pinpoint coordinates for government intervention.
+2. **Illegal Mining Tracking:** NDVI maps reveal sudden drops in vegetation health. We can build automated alert systems that notify environmental agencies when a forest turns into a mining site.
+3. **Agriculture & Crop Health:** Providing farmers and agribusinesses with early warnings on crop stress before it becomes visible to the naked eye, improving food security.
+4. **Carbon Credits Verification:** Providing verifiable, open-source proof of forest existence for global companies looking to invest in carbon offset projects in Africa.
