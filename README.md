@@ -43,3 +43,8 @@ Edosat is designed to solve critical environmental and economic challenges in Ni
 ## Carbon Credit Estimation
 ![Carbon Credits](carbon_credit_calculation.png)
 *Our AI calculated 3,734 sq km of forest cover in Edo State, representing an estimated $466M - $1.4B USD in annual carbon credit value.*
+🚀 **[Try the Live Web App](https://18ab94718b5f5b1baa.gradio.live)**
+
+## Web App Preview
+![Edosat Web App](web_app_preview.png)
+*Interactive Gradio web app for real-time land classification.*
