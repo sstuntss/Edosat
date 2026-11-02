@@ -33,3 +33,6 @@ Edosat is designed to solve critical environmental and economic challenges in Ni
 2. **Illegal Mining Tracking:** NDVI maps reveal sudden drops in vegetation health. We can build automated alert systems that notify environmental agencies when a forest turns into a mining site.
 3. **Agriculture & Crop Health:** Providing farmers and agribusinesses with early warnings on crop stress before it becomes visible to the naked eye, improving food security.
 4. **Carbon Credits Verification:** Providing verifiable, open-source proof of forest existence for global companies looking to invest in carbon offset projects in Africa.
+## Time-Series Change Detection (2015 vs 2024)
+![Change Detection](change_detection_2015_2024.png)
+*Side-by-side comparison of Oredo LGA. The shift in color intensity highlights urban expansion and land-use changes over 9 years.*
