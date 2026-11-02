@@ -1,5 +1,17 @@
 # Edosat
+🚀 **[Try the Live Web App](https://huggingface.co/spaces/Edosat/Edosat)**
 
+## 🌍 The Complete Edo State Dataset (2015 - 2026)
+We have generated Supervised AI land-classification maps for **all 18 LGAs in Edo State** across three different time periods:
+*   **2015:** Historical baseline.
+*   **2024:** Recent analysis.
+*   **2026:** Most current state (All 18 maps published in the [`2026_ai_maps` folder](./2026_ai_maps)).
+
+This time-series dataset allows for precise Change Detection to track deforestation, urban expansion, and illegal mining across the state.
+
+### Map Legend
+*   🟩 **Green:** Healthy Forest / Vegetation
+*   ⬜ **Grey:** Urban areas / Bare Soil / Dead Vegetation
 Open satellite dataset for Edo State, Nigeria. Built off-grid from Benin City.
 
 ## v0.1 - 18 LGAs
